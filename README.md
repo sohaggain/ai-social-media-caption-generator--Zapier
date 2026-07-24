@@ -1,5 +1,3 @@
-# ai-social-media-caption-generator--Zapier
-An AI-powered Zapier automation that generates social media captions using Google Gemini from Google Sheets data, formats platform-specific content, and automatically publishes posts to Instagram and Facebook.
  # AI Social Media Caption Generator
 
 > An AI-powered Zapier automation that turns a simple spreadsheet row into fully published social media posts — generating platform-specific captions with Google AI Studio (Gemini), formatting them appropriately for Instagram and Facebook, and publishing automatically via Buffer and Facebook Pages.
